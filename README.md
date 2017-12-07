@@ -12,7 +12,7 @@ This is the final project for the Udacity Full Stack Nanodegree. This project wi
 - **Public IP:** 54.71.70.208
 - **Port:** 2200
 
-- http://fufeidu.net
+- http://rulebooks.fufeidu.net/
 
 # Software installed
 `apt-get -qqy update` <br>
